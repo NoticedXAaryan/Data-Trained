@@ -1,0 +1,23 @@
+				Live model building Test
+				=========================
+
+1. Treat it as interview coding test.
+2. Questions will not be entertained.
+3. Based on your understanding you have to build model as there is no one standard way.
+4. We will post the code (solution) by EOD tomorrow in the same link.
+==================================================================================================================
+
+1. Read the file from the dive.(file name - Test_Sales_LinReg.csv)
+
+2. Build linear regression model the way you have learned in the classes.
+
+A. Do all necessary analysis using graphs.
+B. If any of the features doesn't have relationship then remove and build the model.
+
+3. This is just for your practice purpose and nothing related to evaluation or placement activities.
+
+Important Note - Upload your jupyter notebook in your github and share the github link in the support.datatrained.org chatbox (Not in Zoom chat)
+
+
+
+
